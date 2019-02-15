@@ -1,0 +1,24 @@
+body{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 60px;
+}
+
+.featured{
+	margin-top: 20px;
+}
+
+#cabecalho{
+	margin-top: 20px;
+}
+
+.block-title{
+	margin-top: 10px;
+}
